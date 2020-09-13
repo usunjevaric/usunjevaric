@@ -28,7 +28,7 @@
 - 🛢 &nbsp; MySQL | Firebase
 - 👨‍🔬 &nbsp; Node.js | Mongo DB | PHP | NextJS | Express
 - 🔧 &nbsp; Git | GitHub | GitLab | Trello | Postman
-- 🖥 &nbsp; Figma| Photoshop | AdobeXD
+- 🖥 &nbsp; Figma | Photoshop | AdobeXD
 
 
 ![Uros's Github stats](https://github-readme-stats.vercel.app/api?username=usunjevaric&show_icons=true)
