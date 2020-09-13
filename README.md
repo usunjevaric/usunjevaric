@@ -12,24 +12,13 @@
 
 <img align="right" alt="GIF" src="https://i.imgur.com/yiNBlxk.png" width="300" height="300" />
 
-### 💼  About Me: 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
-
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
-
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
-* Read a book a week
-* Workout 3 days in a row and take a day break 
-* Avoid the over using social media
-* Adapting the minimalism life style
-* 🔜
+### 👨🏻‍💻 About Me: 
+- 💻 I’m currently working full-time at [First Media Advance](https://fma.vision/);
+- 🎓 Studying Computer Science at Faculty Of Technical Sciences Cacak
+- 🌱 I’m currently learning Node.js and MongoDB
+- 💼 Looking for a freelancing job;
+- 💬 Ping me about: sport, tech, movies, books;
+- 📫 How to reach me: use the badges above
 
  
  **Languages and Frameworks:**
