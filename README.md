@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usunjevaric/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/uros_dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:usunjevaric@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Twitter&logoColor=white)](mailto:murillo_comino@hotmail.com)
+[![Twitter](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/USunjevaric)
 
 &nbsp;
 
