@@ -40,4 +40,4 @@
 
 
 
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
+![Uros's Github stats](https://github-readme-stats.vercel.app/api?username=usunjevaric&show_icons=true)
