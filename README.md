@@ -13,11 +13,11 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/yiNBlxk.png" width="300" height="300" />
 
 ### 👨🏻‍💻 About Me: 
-- 💻 I’m currently working full-time at [First Media Advance](https://fma.vision/);
-- 🎓 Studying Computer Science at Faculty Of Technical Sciences Cacak
+- 💻 I’m currently working full-time at [First Media Advance](https://fma.vision/)
+- 🎓 I’m currently studying Computer Science at Faculty Of Technical Sciences Cacak
 - 🌱 I’m currently learning Node.js and MongoDB
-- 💼 Looking for a freelancing job;
-- 💬 Ping me about: sport, tech, movies, books;
+- 💼 Looking for a freelancing job
+- 💬 Ping me about: sport, tech, movies, books
 - 📫 How to reach me: use the badges above
 
 &nbsp;
