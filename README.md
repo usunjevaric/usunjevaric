@@ -23,7 +23,7 @@
 &nbsp;
 
 ### 🛠 Tech Stack
-- 💻 &nbsp; ReactJS | React Native | Redux | Hooks | Context | Rest API | Gatsby
+- 💻 &nbsp; ReactJS | React Native | NextJS | Redux | Hooks | Context | Rest API | Gatsby 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | SASS | Responsive | Tailwind
 - 🛢 &nbsp; MySQL | Firebase
 - 👨‍🔬 &nbsp; Node.js | Mongo DB | PHP | NextJS | Express
