@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://i.imgur.com/yiNBlxk.png" width="300" height="300" />
 
 ### 👨🏻‍💻 About Me: 
-- 💻 Working full-time at [First Media Advance](https://fma.vision/)
+- 💻 Working full-time at [Alterset](https://alterset.net/)
 - 🎓 Currently studying Computer Science at Faculty Of Technical Sciences Cacak
 - 🌱 I’m currently learning Node.js and MongoDB
 - 💼 Looking for a freelancing job
