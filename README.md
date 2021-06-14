@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usunjevaric/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/uros_dev/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:usunjevaric@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-0078D4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/USunjevaric)
+[![Twitter](https://img.shields.io/badge/-Twitter-0078D4?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/u_s_dev)
 
 &nbsp;
 
@@ -26,7 +26,7 @@
 - 💻 &nbsp; ReactJS | React Native | NextJS | Redux | Hooks | Context | Rest API | Gatsby 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | SASS | Responsive | Tailwind
 - 🛢 &nbsp; MySQL | Firebase
-- 👨‍🔬 &nbsp; Node.js | Mongo DB | PHP | NextJS | Express
+- 👨‍🔬 &nbsp; Node.js | Mongo DB | PHP | NextJS | Express | TypeScript
 - 🔧 &nbsp; Git | GitHub | GitLab | Trello | Postman
 - 🖥 &nbsp; Figma | Photoshop | AdobeXD
 
